@@ -158,7 +158,7 @@ All models are integrated into an interactive Streamlit app with a context-aware
 ### 💼 Experience
 
 **LLM Post-Training Intern** · Ethara AI
-`January 2026 – April 2026`
+`January 2026 – June 2026`
 
 Engineered and validated prompt strategies across multiple LLMs, refining training datasets through systematic curation to improve output quality and reduce evaluation error rates. Analyzed model-generated responses using statistical and exploratory methods to surface performance trends informing fine-tuning decisions, and built structured evaluation frameworks converting raw AI output into stakeholder-ready recommendations.
 
